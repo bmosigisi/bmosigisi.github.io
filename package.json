@@ -1,0 +1,17 @@
+{
+  "name": "blog",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@fontsource/barlow-condensed": "^5.0.8",
+    "@fontsource/saira-condensed": "^5.0.8",
+    "astro": "^2.10.14"
+  }
+}
