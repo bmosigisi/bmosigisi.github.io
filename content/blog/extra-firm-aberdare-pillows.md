@@ -1,7 +1,7 @@
 ---
 external: false
 title: "Extra-firm Aberdare Pillows"
-description: "What I learnt from building a second brain - first book on personal knowledge management that I've read."
+description: "Why do hotels place so many pillows on their headboards?"
 date: 2024-02-01
 draft: false
 ---
