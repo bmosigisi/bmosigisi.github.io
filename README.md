@@ -6,4 +6,6 @@ Cogito, ergo sum
 
 # Note
 
+To run locally, `npm start`.
+
 To publish, push new markdown content in the content/blog directory to the master branch, and github actions will take care of it.
