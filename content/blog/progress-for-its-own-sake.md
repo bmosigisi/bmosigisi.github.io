@@ -19,6 +19,7 @@ There's a lot going on in the world right now. Strife everywhere - civil wars, i
 - letters live chat gpt on disruption
 - Art was the final frontier - can't tell the difference. My tweet.
 - Our writing is becoming homogenous - NYT
+- Late stage capitalism? Bolder imperial interventions 
 
 
 - Reflecting on my role in this
@@ -26,7 +27,6 @@ There's a lot going on in the world right now. Strife everywhere - civil wars, i
 - Complement rather than replace humans
 - How to compete with corporations only thinking about the bottom line.
 - Fine line to tow; market relevance vs a contemplative approach
-
 
 
 - A challenge worthy of the human spirit.
